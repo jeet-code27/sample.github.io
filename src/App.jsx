@@ -29,9 +29,9 @@ useEffect(()=>{
             <a href="https://www.linkedin.com/in/jeetendra-singh-rathore-8ba5772b6/" className="underline">
               LinkedIn
             </a>{" "}
-            <br />
+            <br/>
             <a href="https://jeet-code27.github.io/jeetendra.github.io/" className="underline">Portfolio Website</a>
-                        <br />
+            <br/>
             <a href="https://github.com/jeet-code27/sample.github.io">My Github</a>
           </div>
 <hr />
