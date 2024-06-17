@@ -31,6 +31,8 @@ useEffect(()=>{
             </a>{" "}
             <br />
             <a href="https://jeet-code27.github.io/jeetendra.github.io/" className="underline">Portfolio Website</a>
+                        <br />
+            <a href="https://github.com/jeet-code27/sample.github.io">My Github</a>
           </div>
 <hr />
           <div className="md:text-[30px] text-[20px] fade mt-5 ">
@@ -50,7 +52,7 @@ useEffect(()=>{
         <div
           className="border md:h-[400px] md:w-[500px] h-[250px] w-[250px] flex justify-center items-center md:text-[50px] fade bg-white rounded-[36px] mt-5 text-center"
           data-aos="fade-up">
-          On Scroll Fade In and up Animation
+          Fully Responsive Website
         </div>
         <div
           className="border md:h-[400px] md:w-[500px] h-[250px] w-[250px] flex justify-center items-center md:text-[50px] fade bg-white rounded-[36px] mt-5 text-center"
